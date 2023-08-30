@@ -1,0 +1,22 @@
+{
+  "name": "TestPodPodPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodPodPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ashkanpower/TestPodPodPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ashkanpower": "ashkanpower@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ashkanpower/TestPodPodPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestPodPodPod/Classes/**/*"
+}
